@@ -11,10 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-h1{
-  margin-bottom: 0 !important ;
-  color: rgba(0, 0, 0, 0.88);
-  font-weight: 600;
-  font-size: 38px;
-  line-height: 1.2105263157894737;
-}
